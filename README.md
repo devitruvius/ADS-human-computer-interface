@@ -6,10 +6,22 @@ Este repositório oferece uma demonstração prática e robusta dos conceitos fu
 ## Ementa
 Comunicação usuário-sistema. Comunicação projetista usuário. Engenharia cognitiva e semiótica de sistemas interativos. Estilos e paradigmas de interação: interfaces gráficas; manipulação direta, ícones e linguagens visuais. Modelagem de interfaces: cenarização; modelos de tarefas; modelos de usuário; modelos de interação. Concretização do projeto de interface: storyboarding e prototipação de interfaces; ferramentas de apoio à construção de interfaces. Avaliação de sistemas interativos: inspeção e testes com usuários; aspectos éticos na relação com os usuários. Acessibilidade: interfaces para dispositivos móveis; usabilidade universal.
 
-## Introdução a Usabilidade e UX
+## Unidade 1 – Introdução à Usabilidade e UX
 **Trabalho Prático:** Problemas de Usabilidade em Sistemas Não Convencionais.
 
 **Objetivo:** Analisar problemas de usabilidade em sistemas não convencionais e apresentar os achados de forma estruturada.
+
+## Unidade 2 – Construção de Protótipos
+Não iniciada.
+
+## Unidade 3 – Testes de Usabilidade
+Não iniciada.
+
+## Unidade 4 – Inspeções de Usabilidade
+Não iniciada.
+
+## Unidade 5 – Teorias da IHC: Engenharia Cognitiva e Semiótica
+Não iniciada.
 
 ## Repositório Principal
 Este é o repositório principal que contém todas as atividades relacionadas ao curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Você pode encontrar todos os materiais relacionados ao curso neste repositório central:
