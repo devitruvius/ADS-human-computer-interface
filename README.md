@@ -1,7 +1,7 @@
 # Interface Humano-Computador
 
 ## Objetivo
-Este repositório oferece uma demonstração prática e robusta dos conceitos fundamentais de Interface Humano-Computador, conforme ministrado no curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA).
+Este repositório oferece uma demonstração prática e robusta dos conceitos fundamentais de Interface Humano-Computador, conforme ministrado no curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA), com o objetivo de apresentar os fundamentos sobre a interação homem e máquina e usabilidade de interface.
 
 ## Ementa
 Comunicação usuário-sistema. Comunicação projetista usuário. Engenharia cognitiva e semiótica de sistemas interativos. Estilos e paradigmas de interação: interfaces gráficas; manipulação direta, ícones e linguagens visuais. Modelagem de interfaces: cenarização; modelos de tarefas; modelos de usuário; modelos de interação. Concretização do projeto de interface: storyboarding e prototipação de interfaces; ferramentas de apoio à construção de interfaces. Avaliação de sistemas interativos: inspeção e testes com usuários; aspectos éticos na relação com os usuários. Acessibilidade: interfaces para dispositivos móveis; usabilidade universal.
