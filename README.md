@@ -11,6 +11,7 @@ Comunicação usuário-sistema. Comunicação projetista usuário. Engenharia co
 
 **Objetivo:** Analisar problemas de usabilidade em sistemas não convencionais e apresentar os achados de forma estruturada.
 
+* [Artefato](https://docs.google.com/presentation/d/1HHqtAFtXYHbKrblI5pHXoYqp1ikC2rmPdSvW2mPA7WY/pub?start=false&loop=false&delayms=3000)
 ## Unidade 2 – Construção de Protótipos
 Não iniciada.
 
@@ -24,8 +25,7 @@ Não iniciada.
 Não iniciada.
 
 ## Repositório Principal
-Este é o repositório principal que contém todas as atividades relacionadas ao curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Você pode encontrar todos os materiais relacionados ao curso neste repositório central:
-* [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/devitruvius/college-repository)
+* [Voltar](https://github.com/devitruvius/college-repository)
 
 ## Licença
 
